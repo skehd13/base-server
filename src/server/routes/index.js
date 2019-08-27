@@ -1,4 +1,4 @@
-import APIRoutes from './api/common'
+import APIRoutes from "./api/common";
 export default {
-    route:[APIRoutes]
-}
+  route: [APIRoutes]
+};
